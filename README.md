@@ -27,7 +27,6 @@ sudo nano /etc/hosts
 5. Paste the copied lines at the bottom of the file.
 6. Press `Ctrl + O` and then `Enter` to save.
 7. Press `Ctrl + X` to exit.
-8. Restart Roblox.
 
 ## What does this do?
 
